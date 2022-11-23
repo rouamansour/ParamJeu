@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ParamJeu</string>
+    <string name="Type">Type</string>
+    <string-array name="type">
+        <item>Débutant</item>
+        <item>Intermédiaire</item>
+        <item>Expert</item>
+    </string-array>
+    <string name="Niveau">Niveau</string>
+    <string name="activé">Son activé</string>
+    <string name="Oui">Oui</string>
+    <string name="Non">Non</string>
+    <string name="Enregistrer">Enregistrer</string>
+    <string name="Afficher">Afficher</string>
+</resources>
